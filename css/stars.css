@@ -1,0 +1,1303 @@
+/*stars*/
+
+#star1_cont {
+    position:absolute;
+    width:5%;
+    left:12%;
+    top: 10%;
+    aspect-ratio: 1/1;
+}
+
+#star1 {
+    background-image: url(../graphics/Star.svg);
+    background-size: cover;
+    width: 100%;
+    height:100%;
+    opacity: 70%;
+}
+
+#star2_cont {
+    position:absolute;
+    width:7%;
+    left:56%;
+    top: 20%;
+    aspect-ratio: 1/1;
+}
+
+#star2 {
+    background-image: url(../graphics/Star.svg);
+    background-size: cover;
+    width: 100%;
+    height:100%;
+    opacity: 60%;
+}
+
+#star3_cont {
+    position:absolute;
+    width:7%;
+    left:78%;
+    top: 48%;
+    aspect-ratio: 1/1;
+}
+
+#star3 {
+    background-image: url(../graphics/Star.svg);
+    background-size: cover;
+    width: 100%;
+    height:100%;
+    opacity: 50%;
+}
+
+#star4_cont {
+    position:absolute;
+    width:5%;
+    left:92%;
+    top: 3%;
+    aspect-ratio: 1/1;
+}
+
+#star4 {
+    background-image: url(../graphics/Star.svg);
+    background-size: cover;
+    width: 100%;
+    height:100%;
+    opacity: 60%;
+}
+
+#star5_cont {
+    position:absolute;
+    width:5%;
+    left:4%;
+    top: 60%;
+    aspect-ratio: 1/1;
+}
+
+#star5 {
+    background-image: url(../graphics/Star.svg);
+    background-size: cover;
+    width: 100%;
+    height:100%;
+    opacity: 80%;
+}
+
+#star6_cont {
+    position:absolute;
+    width:5%;
+    left:1%;
+    top: 18%;
+    aspect-ratio: 1/1;
+}
+
+#star6 {
+    background-image: url(../graphics/Star.svg);
+    background-size: cover;
+    width: 100%;
+    height:100%;
+    opacity: 60%;
+}
+
+#star7_cont {
+    position:absolute;
+    width:7%;
+    left:12%;
+    top: 43%;
+    aspect-ratio: 1/1;
+}
+
+#star7 {
+    background-image: url(../graphics/Star.svg);
+    background-size: cover;
+    width: 100%;
+    height:100%;
+    opacity: 50%;
+}
+
+#star8_cont {
+    position:absolute;
+    width:7%;
+    left:59%;
+    top: 85%;
+    aspect-ratio: 1/1;
+}
+
+#star8 {
+    background-image: url(../graphics/Star.svg);
+    background-size: cover;
+    width: 100%;
+    height:100%;
+    opacity: 50%;
+}
+
+#star9_cont {
+    position:absolute;
+    width:5%;
+    left:15%;
+    top: 78%;
+    aspect-ratio: 1/1;
+}
+
+#star9 {
+    background-image: url(../graphics/Star.svg);
+    background-size: cover;
+    width: 100%;
+    height:100%;
+    opacity: 80%;
+}
+
+#star10_cont {
+    position:absolute;
+    width:7%;
+    left:38%;
+    top: 70%;
+    aspect-ratio: 1/1;
+}
+
+#star10 {
+    background-image: url(../graphics/Star.svg);
+    background-size: cover;
+    width: 100%;
+    height:100%;
+    opacity: 50%;
+}
+
+
+#circleStar1_cont {
+    position:absolute;
+    width:4%;
+    left:38%;
+    top: 41%;
+    aspect-ratio: 1/1;
+    
+}
+
+#circleStar1 {
+    background-image: url(../graphics/Star_circle.svg);
+    background-size: cover;
+    width: 100%;
+    height:100%;
+    opacity: 20%;
+}
+
+#circleStar2_cont {
+    position:absolute;
+    width:3%;
+    left:26%;
+    top: 18%;
+    aspect-ratio: 1/1;
+    
+}
+
+#circleStar2 {
+    background-image: url(../graphics/Star_circle.svg);
+    background-size: cover;
+    width: 100%;
+    height:100%;
+    opacity: 40%;
+}
+
+#circleStar3_cont {
+    position:absolute;
+    width:4%;
+    left:83%;
+    top: 14%;
+    aspect-ratio: 1/1;
+    
+}
+
+#circleStar3 {
+    background-image: url(../graphics/Star_circle.svg);
+    background-size: cover;
+    width: 100%;
+    height:100%;
+    opacity: 30%;
+}
+
+#circleStar4_cont {
+    position:absolute;
+    width:6%;
+    left:43%;
+    top: 9%;
+    aspect-ratio: 1/1;
+    
+}
+
+#circleStar4 {
+    background-image: url(../graphics/Star_circle.svg);
+    background-size: cover;
+    width: 100%;
+    height:100%;
+    opacity: 30%;
+}
+
+#circleStar5_cont {
+    position:absolute;
+    width:6%;
+    left:58%;
+    top: 55%;
+    aspect-ratio: 1/1;    
+}
+
+#circleStar5 {
+    background-image: url(../graphics/Star_circle.svg);
+    background-size: cover;
+    width: 100%;
+    height:100%;
+    opacity: 20%;
+}
+
+#circleStar6_cont {
+    position:absolute;
+    width:6%;
+    left:23%;
+    top: 62%;
+    aspect-ratio: 1/1;    
+}
+
+#circleStar6 {
+    background-image: url(../graphics/Star_circle.svg);
+    background-size: cover;
+    width: 100%;
+    height:100%;
+    opacity: 20%;
+}
+
+#circleStar7_cont {
+    position:absolute;
+    width:6%;
+    left:88%;
+    top: 66%;
+    aspect-ratio: 1/1;    
+}
+
+#circleStar7 {
+    background-image: url(../graphics/Star_circle.svg);
+    background-size: cover;
+    width: 100%;
+    height:100%;
+    opacity: 30%;
+}
+
+#circleStar8_cont {
+    position:absolute;
+    width:6%;
+    left:29%;
+    top: 92%;
+    aspect-ratio: 1/1;    
+}
+
+#circleStar8 {
+    background-image: url(../graphics/Star_circle.svg);
+    background-size: cover;
+    width: 100%;
+    height:100%;
+    opacity: 20%;
+}
+
+#circleStar9_cont {
+    position:absolute;
+    width:4%;
+    left:68%;
+    top: 74%;
+    aspect-ratio: 1/1;    
+}
+
+#circleStar9 {
+    background-image: url(../graphics/Star_circle.svg);
+    background-size: cover;
+    width: 100%;
+    height:100%;
+    opacity: 20%;
+}
+
+#star11_cont {
+    position:absolute;
+    width:3%;
+    left:12%;
+    top: 110%;
+    aspect-ratio: 1/1;
+}
+
+#star11 {
+    background-image: url(../graphics/Star.svg);
+    background-size: cover;
+    width: 100%;
+    height:100%;
+    opacity: 70%;
+}
+
+#star12_cont {
+    position:absolute;
+    width:2%;
+    left:56%;
+    top: 120%;
+    aspect-ratio: 1/1;
+}
+
+#star12 {
+    background-image: url(../graphics/Star.svg);
+    background-size: cover;
+    width: 100%;
+    height:100%;
+    opacity: 60%;
+}
+
+#star13_cont {
+    position:absolute;
+    width:4%;
+    left:78%;
+    top: 148%;
+    aspect-ratio: 1/1;
+}
+
+#star13 {
+    background-image: url(../graphics/Star.svg);
+    background-size: cover;
+    width: 100%;
+    height:100%;
+    opacity: 50%;
+}
+
+#star14_cont {
+    position:absolute;
+    width:4%;
+    left:92%;
+    top: 103%;
+    aspect-ratio: 1/1;
+}
+
+#star14 {
+    background-image: url(../graphics/Star.svg);
+    background-size: cover;
+    width: 100%;
+    height:100%;
+    opacity: 60%;
+}
+
+#star15_cont {
+    position:absolute;
+    width:4%;
+    left:4%;
+    top: 160%;
+    aspect-ratio: 1/1;
+}
+
+#star15 {
+    background-image: url(../graphics/Star.svg);
+    background-size: cover;
+    width: 100%;
+    height:100%;
+    opacity: 80%;
+}
+
+#star16_cont {
+    position:absolute;
+    width:5%;
+    left:1%;
+    top: 118%;
+    aspect-ratio: 1/1;
+}
+
+#star16 {
+    background-image: url(../graphics/Star.svg);
+    background-size: cover;
+    width: 100%;
+    height:100%;
+    opacity: 60%;
+}
+
+#star17_cont {
+    position:absolute;
+    width:3%;
+    left:12%;
+    top: 143%;
+    aspect-ratio: 1/1;
+}
+
+#star17 {
+    background-image: url(../graphics/Star.svg);
+    background-size: cover;
+    width: 100%;
+    height:100%;
+    opacity: 50%;
+}
+
+#star18_cont {
+    position:absolute;
+    width:5%;
+    left:59%;
+    top: 185%;
+    aspect-ratio: 1/1;
+}
+
+#star18 {
+    background-image: url(../graphics/Star.svg);
+    background-size: cover;
+    width: 100%;
+    height:100%;
+    opacity: 50%;
+}
+
+#star19_cont {
+    position:absolute;
+    width:4%;
+    left:15%;
+    top: 178%;
+    aspect-ratio: 1/1;
+}
+
+#star19 {
+    background-image: url(../graphics/Star.svg);
+    background-size: cover;
+    width: 100%;
+    height:100%;
+    opacity: 80%;
+}
+
+#star20_cont {
+    position:absolute;
+    width:4%;
+    left:38%;
+    top: 170%;
+    aspect-ratio: 1/1;
+}
+
+#star20 {
+    background-image: url(../graphics/Star.svg);
+    background-size: cover;
+    width: 100%;
+    height:100%;
+    opacity: 50%;
+}
+
+
+#circleStar11_cont {
+    position:absolute;
+    width:3%;
+    left:38%;
+    top: 141%;
+    aspect-ratio: 1/1;
+    
+}
+
+#circleStar11 {
+    background-image: url(../graphics/Star_circle.svg);
+    background-size: cover;
+    width: 100%;
+    height:100%;
+    opacity: 20%;
+}
+
+#circleStar12_cont {
+    position:absolute;
+    width:3%;
+    left:26%;
+    top: 118%;
+    aspect-ratio: 1/1;
+    
+}
+
+#circleStar12 {
+    background-image: url(../graphics/Star_circle.svg);
+    background-size: cover;
+    width: 100%;
+    height:100%;
+    opacity: 40%;
+}
+
+#circleStar13_cont {
+    position:absolute;
+    width:4%;
+    left:83%;
+    top: 114%;
+    aspect-ratio: 1/1;
+    
+}
+
+#circleStar13 {
+    background-image: url(../graphics/Star_circle.svg);
+    background-size: cover;
+    width: 100%;
+    height:100%;
+    opacity: 30%;
+}
+
+#circleStar14_cont {
+    position:absolute;
+    width:5%;
+    left:43%;
+    top: 109%;
+    aspect-ratio: 1/1;
+    
+}
+
+#circleStar14 {
+    background-image: url(../graphics/Star_circle.svg);
+    background-size: cover;
+    width: 100%;
+    height:100%;
+    opacity: 30%;
+}
+
+#circleStar15_cont {
+    position:absolute;
+    width:3%;
+    left:58%;
+    top: 155%;
+    aspect-ratio: 1/1;    
+}
+
+#circleStar15 {
+    background-image: url(../graphics/Star_circle.svg);
+    background-size: cover;
+    width: 100%;
+    height:100%;
+    opacity: 20%;
+}
+
+#circleStar16_cont {
+    position:absolute;
+    width:4%;
+    left:23%;
+    top: 162%;
+    aspect-ratio: 1/1;    
+}
+
+#circleStar16 {
+    background-image: url(../graphics/Star_circle.svg);
+    background-size: cover;
+    width: 100%;
+    height:100%;
+    opacity: 20%;
+}
+
+#circleStar17_cont {
+    position:absolute;
+    width:3%;
+    left:88%;
+    top: 166%;
+    aspect-ratio: 1/1;    
+}
+
+#circleStar17 {
+    background-image: url(../graphics/Star_circle.svg);
+    background-size: cover;
+    width: 100%;
+    height:100%;
+    opacity: 30%;
+}
+
+#circleStar18_cont {
+    position:absolute;
+    width:3%;
+    left:29%;
+    top: 192%;
+    aspect-ratio: 1/1;    
+}
+
+#circleStar18 {
+    background-image: url(../graphics/Star_circle.svg);
+    background-size: cover;
+    width: 100%;
+    height:100%;
+    opacity: 20%;
+}
+
+#circleStar19_cont {
+    position:absolute;
+    width:3%;
+    left:68%;
+    top: 174%;
+    aspect-ratio: 1/1;    
+}
+
+#circleStar19 {
+    background-image: url(../graphics/Star_circle.svg);
+    background-size: cover;
+    width: 100%;
+    height:100%;
+    opacity: 20%;
+}
+
+#star21_cont {
+    position:absolute;
+    width:4%;
+    left:12%;
+    top: 210%;
+    aspect-ratio: 1/1;
+}
+
+#star21 {
+    background-image: url(../graphics/Star.svg);
+    background-size: cover;
+    width: 100%;
+    height:100%;
+    opacity: 70%;
+}
+
+#star22_cont {
+    position:absolute;
+    width:3%;
+    left:56%;
+    top: 220%;
+    aspect-ratio: 1/1;
+}
+
+#star22 {
+    background-image: url(../graphics/Star.svg);
+    background-size: cover;
+    width: 100%;
+    height:100%;
+    opacity: 60%;
+}
+
+#star23_cont {
+    position:absolute;
+    width:4%;
+    left:78%;
+    top: 248%;
+    aspect-ratio: 1/1;
+}
+
+#star23 {
+    background-image: url(../graphics/Star.svg);
+    background-size: cover;
+    width: 100%;
+    height:100%;
+    opacity: 50%;
+}
+
+#star24_cont {
+    position:absolute;
+    width:5%;
+    left:92%;
+    top: 203%;
+    aspect-ratio: 1/1;
+}
+
+#star24 {
+    background-image: url(../graphics/Star.svg);
+    background-size: cover;
+    width: 100%;
+    height:100%;
+    opacity: 60%;
+}
+
+#star25_cont {
+    position:absolute;
+    width:3%;
+    left:4%;
+    top: 260%;
+    aspect-ratio: 1/1;
+}
+
+#star25 {
+    background-image: url(../graphics/Star.svg);
+    background-size: cover;
+    width: 100%;
+    height:100%;
+    opacity: 80%;
+}
+
+#star26_cont {
+    position:absolute;
+    width:5%;
+    left:1%;
+    top: 218%;
+    aspect-ratio: 1/1;
+}
+
+#star26 {
+    background-image: url(../graphics/Star.svg);
+    background-size: cover;
+    width: 100%;
+    height:100%;
+    opacity: 60%;
+}
+
+#star27_cont {
+    position:absolute;
+    width:5%;
+    left:12%;
+    top: 243%;
+    aspect-ratio: 1/1;
+}
+
+#star27 {
+    background-image: url(../graphics/Star.svg);
+    background-size: cover;
+    width: 100%;
+    height:100%;
+    opacity: 50%;
+}
+
+#star28_cont {
+    position:absolute;
+    width:4%;
+    left:59%;
+    top: 285%;
+    aspect-ratio: 1/1;
+}
+
+#star28 {
+    background-image: url(../graphics/Star.svg);
+    background-size: cover;
+    width: 100%;
+    height:100%;
+    opacity: 50%;
+}
+
+#star29_cont {
+    position:absolute;
+    width:5%;
+    left:15%;
+    top: 278%;
+    aspect-ratio: 1/1;
+}
+
+#star29 {
+    background-image: url(../graphics/Star.svg);
+    background-size: cover;
+    width: 100%;
+    height:100%;
+    opacity: 80%;
+}
+
+#star30_cont {
+    position:absolute;
+    width:4%;
+    left:38%;
+    top: 270%;
+    aspect-ratio: 1/1;
+}
+
+#star30 {
+    background-image: url(../graphics/Star.svg);
+    background-size: cover;
+    width: 100%;
+    height:100%;
+    opacity: 50%;
+}
+
+
+#circleStar21_cont {
+    position:absolute;
+    width:4%;
+    left:38%;
+    top: 241%;
+    aspect-ratio: 1/1;
+    
+}
+
+#circleStar21 {
+    background-image: url(../graphics/Star_circle.svg);
+    background-size: cover;
+    width: 100%;
+    height:100%;
+    opacity: 20%;
+}
+
+#circleStar22_cont {
+    position:absolute;
+    width:3%;
+    left:26%;
+    top: 218%;
+    aspect-ratio: 1/1;
+    
+}
+
+#circleStar22 {
+    background-image: url(../graphics/Star_circle.svg);
+    background-size: cover;
+    width: 100%;
+    height:100%;
+    opacity: 40%;
+}
+
+#circleStar23_cont {
+    position:absolute;
+    width:4%;
+    left:83%;
+    top: 214%;
+    aspect-ratio: 1/1;
+    
+}
+
+#circleStar23 {
+    background-image: url(../graphics/Star_circle.svg);
+    background-size: cover;
+    width: 100%;
+    height:100%;
+    opacity: 30%;
+}
+
+#circleStar24_cont {
+    position:absolute;
+    width:6%;
+    left:12%;
+    top: 209%;
+    aspect-ratio: 1/1;
+    
+}
+
+#circleStar24 {
+    background-image: url(../graphics/Star_circle.svg);
+    background-size: cover;
+    width: 100%;
+    height:100%;
+    opacity: 30%;
+}
+
+#circleStar25_cont {
+    position:absolute;
+    width:6%;
+    left:58%;
+    top: 255%;
+    aspect-ratio: 1/1;    
+}
+
+#circleStar25 {
+    background-image: url(../graphics/Star_circle.svg);
+    background-size: cover;
+    width: 100%;
+    height:100%;
+    opacity: 20%;
+}
+
+#circleStar26_cont {
+    position:absolute;
+    width:6%;
+    left:23%;
+    top: 262%;
+    aspect-ratio: 1/1;    
+}
+
+#circleStar26 {
+    background-image: url(../graphics/Star_circle.svg);
+    background-size: cover;
+    width: 100%;
+    height:100%;
+    opacity: 20%;
+}
+
+#circleStar27_cont {
+    position:absolute;
+    width:6%;
+    left:88%;
+    top: 266%;
+    aspect-ratio: 1/1;    
+}
+
+#circleStar27 {
+    background-image: url(../graphics/Star_circle.svg);
+    background-size: cover;
+    width: 100%;
+    height:100%;
+    opacity: 30%;
+}
+
+#circleStar28_cont {
+    position:absolute;
+    width:6%;
+    left:69%;
+    top: 292%;
+    aspect-ratio: 1/1;    
+}
+
+#circleStar28 {
+    background-image: url(../graphics/Star_circle.svg);
+    background-size: cover;
+    width: 100%;
+    height:100%;
+    opacity: 20%;
+}
+
+#circleStar29_cont {
+    position:absolute;
+    width:4%;
+    left:78%;
+    top: 274%;
+    aspect-ratio: 1/1;    
+}
+
+#circleStar29 {
+    background-image: url(../graphics/Star_circle.svg);
+    background-size: cover;
+    width: 100%;
+    height:100%;
+    opacity: 20%;
+}
+
+#star31_cont {
+    position:absolute;
+    width:4%;
+    left:12%;
+    top: 310%;
+    aspect-ratio: 1/1;
+}
+
+#star31 {
+    background-image: url(../graphics/Star.svg);
+    background-size: cover;
+    width: 100%;
+    height:100%;
+    opacity: 70%;
+}
+
+#star32_cont {
+    position:absolute;
+    width:3%;
+    left:56%;
+    top: 320%;
+    aspect-ratio: 1/1;
+}
+
+#star32 {
+    background-image: url(../graphics/Star.svg);
+    background-size: cover;
+    width: 100%;
+    height:100%;
+    opacity: 60%;
+}
+
+#star33_cont {
+    position:absolute;
+    width:4%;
+    left:78%;
+    top: 348%;
+    aspect-ratio: 1/1;
+}
+
+#star33 {
+    background-image: url(../graphics/Star.svg);
+    background-size: cover;
+    width: 100%;
+    height:100%;
+    opacity: 50%;
+}
+
+#star34_cont {
+    position:absolute;
+    width:5%;
+    left:92%;
+    top: 303%;
+    aspect-ratio: 1/1;
+}
+
+#star34 {
+    background-image: url(../graphics/Star.svg);
+    background-size: cover;
+    width: 100%;
+    height:100%;
+    opacity: 60%;
+}
+
+#star35_cont {
+    position:absolute;
+    width:3%;
+    left:4%;
+    top: 360%;
+    aspect-ratio: 1/1;
+}
+
+#star35 {
+    background-image: url(../graphics/Star.svg);
+    background-size: cover;
+    width: 100%;
+    height:100%;
+    opacity: 80%;
+}
+
+#star36_cont {
+    position:absolute;
+    width:5%;
+    left:1%;
+    top: 318%;
+    aspect-ratio: 1/1;
+}
+
+#star36 {
+    background-image: url(../graphics/Star.svg);
+    background-size: cover;
+    width: 100%;
+    height:100%;
+    opacity: 60%;
+}
+
+#star37_cont {
+    position:absolute;
+    width:5%;
+    left:12%;
+    top: 343%;
+    aspect-ratio: 1/1;
+}
+
+#star37 {
+    background-image: url(../graphics/Star.svg);
+    background-size: cover;
+    width: 100%;
+    height:100%;
+    opacity: 50%;
+}
+
+#star38_cont {
+    position:absolute;
+    width:4%;
+    left:59%;
+    top: 385%;
+    aspect-ratio: 1/1;
+}
+
+#star38 {
+    background-image: url(../graphics/Star.svg);
+    background-size: cover;
+    width: 100%;
+    height:100%;
+    opacity: 50%;
+}
+
+#star39_cont {
+    position:absolute;
+    width:5%;
+    left:15%;
+    top: 378%;
+    aspect-ratio: 1/1;
+}
+
+#star39 {
+    background-image: url(../graphics/Star.svg);
+    background-size: cover;
+    width: 100%;
+    height:100%;
+    opacity: 80%;
+}
+
+#star40_cont {
+    position:absolute;
+    width:4%;
+    left:38%;
+    top: 370%;
+    aspect-ratio: 1/1;
+}
+
+#star40 {
+    background-image: url(../graphics/Star.svg);
+    background-size: cover;
+    width: 100%;
+    height:100%;
+    opacity: 50%;
+}
+
+
+#circleStar31_cont {
+    position:absolute;
+    width:4%;
+    left:38%;
+    top: 341%;
+    aspect-ratio: 1/1;
+    
+}
+
+#circleStar31 {
+    background-image: url(../graphics/Star_circle.svg);
+    background-size: cover;
+    width: 100%;
+    height:100%;
+    opacity: 20%;
+}
+
+#circleStar32_cont {
+    position:absolute;
+    width:3%;
+    left:26%;
+    top: 318%;
+    aspect-ratio: 1/1;
+    
+}
+
+#circleStar32 {
+    background-image: url(../graphics/Star_circle.svg);
+    background-size: cover;
+    width: 100%;
+    height:100%;
+    opacity: 40%;
+}
+
+#circleStar33_cont {
+    position:absolute;
+    width:4%;
+    left:83%;
+    top: 314%;
+    aspect-ratio: 1/1;
+    
+}
+
+#circleStar33 {
+    background-image: url(../graphics/Star_circle.svg);
+    background-size: cover;
+    width: 100%;
+    height:100%;
+    opacity: 30%;
+}
+
+#circleStar34_cont {
+    position:absolute;
+    width:6%;
+    left:12%;
+    top: 309%;
+    aspect-ratio: 1/1;
+    
+}
+
+#circleStar34 {
+    background-image: url(../graphics/Star_circle.svg);
+    background-size: cover;
+    width: 100%;
+    height:100%;
+    opacity: 30%;
+}
+
+#circleStar35_cont {
+    position:absolute;
+    width:6%;
+    left:58%;
+    top: 355%;
+    aspect-ratio: 1/1;    
+}
+
+#circleStar35 {
+    background-image: url(../graphics/Star_circle.svg);
+    background-size: cover;
+    width: 100%;
+    height:100%;
+    opacity: 20%;
+}
+
+#circleStar36_cont {
+    position:absolute;
+    width:6%;
+    left:23%;
+    top: 362%;
+    aspect-ratio: 1/1;    
+}
+
+#circleStar36 {
+    background-image: url(../graphics/Star_circle.svg);
+    background-size: cover;
+    width: 100%;
+    height:100%;
+    opacity: 20%;
+}
+
+#circleStar37_cont {
+    position:absolute;
+    width:6%;
+    left:88%;
+    top: 366%;
+    aspect-ratio: 1/1;    
+}
+
+#circleStar37 {
+    background-image: url(../graphics/Star_circle.svg);
+    background-size: cover;
+    width: 100%;
+    height:100%;
+    opacity: 30%;
+}
+
+#circleStar38_cont {
+    position:absolute;
+    width:6%;
+    left:69%;
+    top: 392%;
+    aspect-ratio: 1/1;    
+}
+
+#circleStar38 {
+    background-image: url(../graphics/Star_circle.svg);
+    background-size: cover;
+    width: 100%;
+    height:100%;
+    opacity: 20%;
+}
+
+#circleStar39_cont {
+    position:absolute;
+    width:4%;
+    left:78%;
+    top: 374%;
+    aspect-ratio: 1/1;    
+}
+
+#circleStar39 {
+    background-image: url(../graphics/Star_circle.svg);
+    background-size: cover;
+    width: 100%;
+    height:100%;
+    opacity: 20%;
+}
+
+
+#asteroid1_container {
+    position: absolute;
+    width:12%;
+    aspect-ratio: 1.2/1;
+
+}
+
+#asteroid1_sprite {
+    background-image: url(../graphics/fallingstar.svg);
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+}
+
+
+.falling1 {
+    animation-name: fall1;
+    animation-duration: 4.8s;
+    animation-iteration-count: infinite;
+
+    animation-timing-function: linear;
+}
+
+
+@keyframes fall1 {
+    from{
+    transform: translateY(-500%);
+    left: 100%;
+    }
+    to{
+        transform: translateY(250%);
+        
+        left: 0%;        
+    }
+} 
+
+/*animations*/
+
+
+.pulse {
+    animation: pulse 3s infinite;
+}
+
+@keyframes pulse {
+    0%, 100% {
+        transform: scale(1,1);
+    }
+    50% {
+        transform: scale(0.5, 0.5);
+    }
+}
+
+.pulse2 {
+    animation: pulse 2.1s infinite;
+}
+
+@keyframes pulse2 {
+    0%, 100% {
+        transform: scale(1,1);
+    }
+    50% {
+        transform: scale(0.5, 0.5);
+    }
+}
